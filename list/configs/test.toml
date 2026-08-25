@@ -1,0 +1,21 @@
+# 测试环境配置
+[base]
+env = "test"
+base_url = "https://rptv-db-api-test.playapp365.com"
+package_name = "test.drama.short"
+timeout = 30
+
+# 登录接口测试数据
+[test_account]
+device_id = "test_device_001"
+distinct_id = "test_distinct_001"
+country = "US"
+source = "fb"
+user_strategy = 1  # 1-免广告 2-提现
+
+# 监控配置
+[monitor]
+check_interval_hours = 1
+max_response_time_ms = 5000  # 响应时间阈值
+retry_times = 3
+alert_webhook = ""

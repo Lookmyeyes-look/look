@@ -1,0 +1,16 @@
+# HTTP 客户端
+requests>=2.28.0
+
+# 配置管理: Python 3.11+ 使用标准库 tomllib + 内置 .env 解析，无需额外依赖
+
+# 定时任务
+schedule>=1.2.0
+
+# 日志
+loguru>=0.7.0
+
+# 时区
+pytz>=2023.3
+
+# 开发工具
+pytest>=7.0.0

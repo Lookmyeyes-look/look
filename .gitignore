@@ -205,3 +205,26 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ---- 项目特定规则（look 仓库补充）----
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+
+# 环境变量（本地变体）
+.env.local
+.env.*.local
+
+# 日志与运行产物
+logs/
+health_check_result.json
+reports/
+
+# 调试遗留（含真实响应与敏感信息）
+debug_file/
+list/src/core/raw_response.txt
+
+# 空数据目录
+data/
