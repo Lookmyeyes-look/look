@@ -1,0 +1,16 @@
+Headers:
+Date: Mon, 01 Jun 2026 09:30:30 GMT
+Content-Type: application/octet-stream
+Content-Length: 104
+Connection: keep-alive
+X-Tove: 1780306230343
+X-Edevic-Kweb: 116532420664441927
+Acar: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsb2dpbk9iamVjdENvZGUiOiJjdXN0b21lciIsImFwcElkIjoiMTg4ODE1NjE5MDU3NzM2NDk5NCIsInRvdGFsRXhwIjoxNzgxMTA2MjMwNDIxLCJ3aWxsRXhwIjoxNzgwOTcyODk2NDIxLCJsb2dpbklkIjoiMjA2MTMzMDg5NjY3MzQzOTc0NiJ9.qz0AMlbtJuGaXf7qJtl8OAmBhl0mQz4OnhaPU2OMdvY
+Tdri: 1780972896421
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, OPTIONS, PUT, DELETE
+Access-Control-Allow-Headers: *
+Access-Control-Expose-Headers: *
+
+Body:
+Cw9vB2V2aSJKHDBBY3BpcFIXLE8ibWJpAkk+WSJzdWMTSG8QLiIsIhREeAYiOnsiBU5wDHMiOiJCHSpSMzMwOEkbKlQzNDM5RxkqQX19
